@@ -5,6 +5,12 @@
 *.so
 *.dylib
 
+# zips
+*.tar
+*.gz
+*.zip
+*.7z
+
 # Test binary, built with `go test -c`
 *.test
 
